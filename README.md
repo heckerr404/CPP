@@ -1,4 +1,5 @@
 # CPP 🚀
+<!-- badge-run: 1783360747 -->
 
 Welcome to my C++ repository! This repository contains my solutions to various algorithmic problems.
 
